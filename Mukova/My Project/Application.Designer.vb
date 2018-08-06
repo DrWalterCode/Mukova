@@ -32,7 +32,7 @@ Namespace My
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.Mukova.frmScan
+            Me.MainForm = Global.Mukova.FrmDatabaseSetup
         End Sub
     End Class
 End Namespace
